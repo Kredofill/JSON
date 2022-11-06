@@ -1,0 +1,6 @@
+{"title": "Something happen",
+"Environment": "Windows 10",
+"Expected_Result":"All working fine",
+"Actual_Result" : "It isn't working",
+"Steps_to_reproduce" : "step1, step2, step3, profit",
+"Assigned" : "Developer Vasya"}
